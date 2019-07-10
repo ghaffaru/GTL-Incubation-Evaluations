@@ -52,7 +52,7 @@ return [
 
         'mysql' => [
             'driver' => 'mysql',
-            'url' => $url,
+            // 'url' => ,
             'host' => $host,
             'port' => 3306,
             'database' => $database,
